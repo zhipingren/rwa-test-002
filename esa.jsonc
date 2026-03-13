@@ -3,6 +3,6 @@
   "installCommand": "npm install",
   "assets": {
     "directory": "/src/assets",
-    "notFoundStrategy": "404Page"
+    "notFoundStrategy": "singlePageApplication"
   }
 }
