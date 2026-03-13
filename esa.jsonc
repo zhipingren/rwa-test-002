@@ -1,6 +1,7 @@
 {
   "name": "vite-react-template",
   "installCommand": "npm install",
+ "entry": "/index.js",
   "assets": {
     "directory": "/src/assets",
     "notFoundStrategy": "singlePageApplication"
