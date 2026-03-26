@@ -4,6 +4,6 @@
  "entry": "/index.js",
   "assets": {
     "directory": "/src/assets",
-   "notFoundStrategy": "404Pages"
+   "notFoundStrategy": "404page"
   }
 }
